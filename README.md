@@ -1,5 +1,8 @@
 # Objective
 To create a log that updates burgers you've devoured or plan on devouring in the very near future using MySQL, Node, Express, and Handlebars The burgers will be stored in a database. 
+# Submission Links
+Github Page: https://github.com/ShowlandProductions/burger
+Deplyed Heroku App: 
 # Dependencies
 * express-handlebars
 * express
