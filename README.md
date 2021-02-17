@@ -8,6 +8,7 @@ Deployed Heroku App: https://guarded-retreat-66401.herokuapp.com/
 * express-handlebars
 * express
 * mysql
+* JawsDb
 # Also Required
 * Javascript
 * Node.js
